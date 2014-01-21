@@ -1,0 +1,26 @@
+{
+  "name": "contegix-logger",
+  "description": "Contegix Logger",
+  "version": "0.0.1",
+  "author": {
+    "name": "Jonathan Creasy",
+    "email": "jonathan.creasy@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Contegix/node-contegix-logger"
+  },
+  "bugs": {
+    "url": "https://github.com/Contegix/node-contegix-logger/issues/new"
+  },
+  "license": {
+    "type": "MIT",
+    "url": "https://github.com/contegix/node-contegix-logger/blob/master/LICENSE"
+  },
+  "main": "./lib/logger.js",
+  "dependencies": {
+    "mkdirp": "0.3.x",
+    "underscore":"1.4.x",
+    "winston": "0.7.x"
+  }
+}
