@@ -1,7 +1,7 @@
 {
   "name": "contegix-logger",
   "description": "Contegix Logger",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "author": {
     "name": "Jonathan Creasy",
     "email": "jonathan.creasy@gmail.com"
@@ -21,6 +21,7 @@
   "dependencies": {
     "mkdirp": "0.3.x",
     "underscore":"1.4.x",
-    "winston": "0.7.x"
+    "winston": "0.7.x",
+    "uuid": "1.4.x"
   }
 }
