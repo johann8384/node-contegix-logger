@@ -1,7 +1,7 @@
 {
   "name": "contegix-logger",
   "description": "Contegix Logger",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "author": {
     "name": "Jonathan Creasy",
     "email": "jonathan.creasy@gmail.com"
